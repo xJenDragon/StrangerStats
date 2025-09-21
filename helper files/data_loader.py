@@ -8,9 +8,7 @@ import pandas as pd
 from pathlib import Path
 
 # Put your Google Sheet ID here
-SHEET_ID = "YOUR_SHEET_ID_HERE"
 DATA_FILE = Path("data/stranger_stats.xlsx")
-
 
 def load_sheet(sheet_name: str) -> pd.DataFrame:
     """
@@ -40,6 +38,3 @@ def load_upside_down_events() -> pd.DataFrame:
     return load_sheet("upside_down_events")
 
 
-def load_upside_down_events() -> pd.DataFrame:
-    """Load the Upside Down Events sheet."""
-    return load_sheet("Upside Down Events")
