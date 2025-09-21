@@ -7,11 +7,7 @@ from a Google Sheet with multiple sheets.
 import pandas as pd
 from pathlib import Path
 
-# Put your Google Sheet ID here
-DATA_FILE = Path("data/stranger_stats.xlsx")
-
-
-def load_sheet(sheet_name: str) -> pd.DataFrame:
+def load_sheet(DATA_FILE, sheet_name: str) -> pd.DataFrame:
     """
     Load a single sheet from the Stranger Stats Excel file.
 
