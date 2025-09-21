@@ -25,13 +25,12 @@ There are **four notebooks** in this repo:
      - Activity counts by hour of the day  
      - Average severity of Upside Down events by monster  
 
-3. **03_Integration_Exercises.ipynb**  
-   - Combine datasets to explore relationships  
+3. **03_Probability_and_Predictions.ipynb**  
+   - Explore probabilities and make simple predictions using the datasets 
    - **Exercises include**:
-     - Compare monster counts to character activity  
-     - Correlation of monster count with Upside Down event severity  
-     - Parameter tweaks: filter by hour, day, or severity level  
-   - Encourages experimentation and exploration
+     - Probability of each monster appearing in Upside Down events 
+     - Probability of High, Medium, or Low severity for the next event by monster 
+     - Parameter tweaks: filter by hour, day, or severity level to see how probabilities change  
 
 4. **04_Final_Challenge_Hawkins.ipynb**  
    - The **Hawkins Mystery** challenge  
@@ -56,7 +55,7 @@ There are **four notebooks** in this repo:
 ├── notebooks/
 │ ├── 01_Intro_Exercises.ipynb
 │ ├── 02_Descriptive_Stats.ipynb
-│ ├── 03_Integration_Exercises.ipynb
+│ ├── 03_Probability_and_Predictions.ipynb
 │ └── 04_Final_Challenge_Hawkins.ipynb
 └── README.md
 ```
