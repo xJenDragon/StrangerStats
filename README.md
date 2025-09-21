@@ -1,5 +1,3 @@
-# StrangerStats
-
 # Stranger Stats 🧪👾
 
 Welcome to **Stranger Stats**, an introduction to data science through the world of *Stranger Things*!  
