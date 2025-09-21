@@ -14,24 +14,20 @@ There are **four notebooks** in this repo:
    - Hands-on introduction to Python, pandas, and Colab  
    - Build confidence with calling prebuilt functions
 
-2. **02_Descriptive_Stats.ipynb`**  
-Focus: Exploring individual datasets with summary statistics and simple visualizations.  
-
-- **Topics covered**:  
+2. **02_Descriptive_Stats.ipynb**  
   - Descriptive statistics (mean, sum, etc.)  
   - Grouping and aggregating data  
   - Visualizations (bar charts, histograms)  
-
-- **Exercises include**:  
-  - Sum and mean of monster sightings in each area  
-  - Total number of monster sightings  
-  - Average monster count in each area  
-  - Activity counts by hour of the day  
-  - Average severity of Upside Down events by monster  
+  - **Exercises include**:  
+     - Sum and mean of monster sightings in each area  
+     - Total number of monster sightings  
+     - Average monster count in each area  
+     - Activity counts by hour of the day  
+     - Average severity of Upside Down events by monster  
 
 3. **03_Integration_Exercises.ipynb**  
    - Combine datasets to explore relationships  
-   - Exercises include:
+   - **Exercises include**:
      - Compare monster counts to character activity  
      - Correlation of monster count with Upside Down event severity  
      - Parameter tweaks: filter by hour, day, or severity level  
