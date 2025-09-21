@@ -49,7 +49,7 @@ There are **four notebooks** in this repo:
 ```
 ├── data/
 │ └── stranger_stats.xlsx
-├── utils/
+├── helper/
 │ ├── data_loader.py
 │ ├── analysis.py
 │ └── viz.py
