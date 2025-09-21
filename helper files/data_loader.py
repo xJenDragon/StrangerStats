@@ -1,6 +1,6 @@
 # data_loader.py
 """
-Utility functions to load Stranger STATS datasets
+Utility functions to load Stranger Stats datasets
 from a Google Sheet with multiple sheets.
 """
 
@@ -9,6 +9,7 @@ from pathlib import Path
 
 # Put your Google Sheet ID here
 DATA_FILE = Path("data/stranger_stats.xlsx")
+
 
 def load_sheet(sheet_name: str) -> pd.DataFrame:
     """

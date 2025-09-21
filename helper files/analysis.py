@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def monster_summary(df, agg_funcs=["mean", "median", "var", "sum"]):
     """
     Summarize monster sightings by monster type.
@@ -8,6 +9,7 @@ def monster_summary(df, agg_funcs=["mean", "median", "var", "sum"]):
         agg_funcs (list): List of aggregations to apply
     """
     return df.groupby("Monster")["Count"].agg(agg_funcs)
+
 
 def area_summary(df, top_n=5, sort_by="sum"):
     """
