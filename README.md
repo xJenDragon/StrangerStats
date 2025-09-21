@@ -51,6 +51,7 @@ There are **four notebooks** in this repo:
 ├── helper/
 │ ├── data_loader.py
 │ ├── analysis.py
+│ ├── install.py
 │ └── viz.py
 ├── notebooks/
 │ ├── 01_Intro_Exercises.ipynb
