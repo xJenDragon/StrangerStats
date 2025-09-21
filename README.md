@@ -17,7 +17,7 @@ There are **four notebooks** in this repo:
 2. **02_Descriptive_Stats.ipynb**  
    - Explore **Monster Sightings**, **Character Stats**, and **Upside Down Events**  
    - Descriptive statistics, probability, and parameter adjustments  
-   - Visualizations: histograms, bar charts  
+   - Visualizations: bar charts  
    - Exercises include:
      - Which monster has the highest average count?  
      - Top areas by total monster sightings  
