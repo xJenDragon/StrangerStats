@@ -3,6 +3,8 @@
 Welcome to **Stranger Stats**, an introduction to data science through the world of *Stranger Things*!  
 In this workshop, you’ll explore monsters, characters, and Upside Down events using Python, pandas, and Colab.
 
+We highly recommend either using Google Colab or Jupyter Notebook.
+
 ---
 
 ## 🕹 Workshop Flow
